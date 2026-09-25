@@ -94,7 +94,7 @@ pipeline {
     post {
 
         success {
-            echo 'E-commerce application deployed successfully.'
+            echo 'Hurray E-commerce application deployed successfully.'
         }
 
         failure {
